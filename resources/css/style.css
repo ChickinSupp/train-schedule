@@ -1,0 +1,25 @@
+.jumbotron{
+    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background: rgba(30,144,255,0.5);
+}
+
+.header-text{
+    font-size: 64px;
+    font-weight: bolder;
+}
+
+.schedule-text{
+    font-weight: bolder;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.col-text{
+    font-weight: bold;
+}
+
+#add-train-btn{
+    background: rgba(30,144,255,0.5);
+    text-align: center;
+}
